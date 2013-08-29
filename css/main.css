@@ -68,7 +68,7 @@ h5 { font-size: 100%; }
 
 /* * * * * Header * * * * */
 #hd {
-	height: 112px;
+	height: 142px;
 }
 #hd .tllogo {
 	position: absolute;
@@ -94,12 +94,17 @@ h5 { font-size: 100%; }
 .breadcrumb {
 	position: absolute;
 	left: 318px;
-	top: 94px;
+	top: 125px;
 }
 .aw-eshopcart-cartsm {
 	position: absolute;
 	right: 0px;
 	top: 57px;
+}
+.aw-eshop-searchline {
+	position: absolute;
+	right: 0px;
+	top: 95px;
 }
 
 /* * * * * Footer * * * * */
